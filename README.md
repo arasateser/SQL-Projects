@@ -1,4 +1,7 @@
 # SQL-Data-Exploration-Project
 
-This is a data exploration and SQL training for myself.
-The dataset used in this project : ourworldindata.org/covid-deaths
+This is a umbrella project to explore data and a SQL training for myself.
+
+The Datasets that I used:
+
+covid_exploration > ourworldindata.org/covid-deaths
